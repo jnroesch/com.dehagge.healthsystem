@@ -1,0 +1,15 @@
+{
+    "name": "DeHagge.HealthSystem",
+    "references": [
+        "GUID:67b9840e8e2749647b75e201c75ce013"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
