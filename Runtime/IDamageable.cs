@@ -11,6 +11,7 @@ namespace Packages.com.dehagge.healthsystem.Runtime
         float CurrentHealthNormalized { get; }
 
         event EventHandler HealthChanged;
+        event EventHandler HealthDepleted;
 
         void ReduceHealthPoints(float amount);
         void RestoreHealthPoints(float amount);
